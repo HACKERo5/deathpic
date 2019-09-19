@@ -1,4 +1,5 @@
 # deathpic
 deathpic
 its used to capture photos via ngrok or serveo.net
-this is rebuild content
+This is rebuilt content.
+I only made few changes to some stuff.😁🤗👽
