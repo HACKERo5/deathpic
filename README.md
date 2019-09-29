@@ -9,4 +9,4 @@ Command to Auto_Install in termux.. will work on other linux base 😑
 
 
 
-pkg i openssh -y && pkg i php -y && git clone https://github.com/HACKERo5/deathpic.git && cd deathpic && chmod 600 deathpic.html && bash deathpic.sh
+pkg i openssh -y && pkg i php -y &&  git clone https://github.com/HACKERo5/deathpic.git  && cd deathpic && chmod 600 deathpic.html && chmod +x ngrok && bash deathpic.sh
